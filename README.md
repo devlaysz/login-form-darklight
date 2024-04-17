@@ -7,12 +7,10 @@ Neste projeto, explorei e aprimorei minhas habilidades em JavaScript, HTML e CSS
 Funcionalidades Principais
 Formulário de Login: Um formulário simples e intuitivo para entrada de usuário e senha.
 Modo Escuro: Implementação de um interruptor ou botão que permite aos usuários alternar entre o modo claro e escuro da interface.
-Validação de Entrada: Utilização de JavaScript para validar os campos de entrada do formulário.
+
 Como Utilizar
 Clone este repositório em sua máquina local.
 
-bash
-Copy code
 git clone https://github.com/seu-usuario/projeto-login-form-darklight.git
 Abra o arquivo index.html em seu navegador web.
 
