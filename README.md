@@ -7,7 +7,8 @@ Neste projeto, explorei e aprimorei minhas habilidades em JavaScript, HTML e CSS
 
 ## Funcionalidades Principais
 Formulário de Login: Um formulário simples e intuitivo para entrada de usuário e senha.
-Modo Escuro: Implementação de um interruptor ou botão que permite aos usuários alternar entre o modo claro e escuro da interface.
+
+Modo Escuro: Implementação de um icon que permite aos usuários alternar entre o modo claro e escuro da interface.
 
 ## Como Utilizar
 Clone este repositório em sua máquina local.
