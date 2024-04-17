@@ -21,8 +21,11 @@ Experimente as funcionalidades do formulário de login e teste a alternância en
 
 ## Tecnologias Utilizadas
 HTML5
+
 CSS3
+
 JavaScript
+
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para discutir novos recursos ou enviar uma pull request com melhorias.
